@@ -1,5 +1,5 @@
-//TC o(N*N)
-//SC o(N*N)+O(N)
+//TC o(N*M)
+//SC o(N*M)+O(N)
 #include <bits/stdc++.h>
 using namespace std;
 
